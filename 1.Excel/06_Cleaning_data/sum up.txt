@@ -1,0 +1,5 @@
+- Remove duplicate 
+- Edit name: use UPPER, Lower or Proper function
+- Use filter to look for spelling errors
+- Trim white space: TRIM function
+- Issue with numerical data: currency, dates
